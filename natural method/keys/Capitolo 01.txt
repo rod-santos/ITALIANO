@@ -1,8 +1,61 @@
 Esercizio A.
 
+
+un    una    il    la
+             i     le
+
+
+Carlo Rossi è un uomo. La moglie di Carlo Rossi é una
+donna. Bruno è un bambino. Pia è una bambina. Chi è il
+padre di Maria? E chi è la madre di Maria? I genitori
+di Maria sono Carlo e Teresa Rossi. Maria è la sorella
+de Pia. Pietro è il fratello di Bruno. Bruno e Pietro
+sono i fratelli di Pia. Pia e Maria sono le sorelle di Bruno.
+
+
+    bambino      bambina
+    bambini      bambine
+
+
+Il fratello di Bruno è Pietro. Carlo Rossi ha quattro
+figli. Bruno, Pietro, Maria e Pia sono quattro bambini.
+La sorella di Pia è Maria. Pia e Maria sono figlie di
+Carlo Rossi. Bruno ha due sorelle, Pia ha due fratelli.
+
+
+    è             ha
+    sono          hanno
+
+
+Carlo Rossi è il marito di Teresa Rossi. Carlo e Teresa Rossi
+hanno quattro figlie. Bruno ha un fratello e due sorelle.
+Pia e Maria hanno due fratelli. E fratelli di Pia sono Bruno
+e Pietro. Pietro è il fratello di Bruno.
+
+
 Esercizio B.
 
+
+Pietro è um bambino. Pia è una bambina. Teresa Rossi è una donna.
+I quattro (4) bambine e i genitori sono una famiglia. Pietro é
+figlio de Carlo e Teresa Rossi. Pia è fliglia di Carlo e Teresa
+Rossi. Carlo e Teresa Rossi hanno quattro figli. Pia ha due
+fratelli e una sorella. Carlo e Teresa Rossi i genitori di Pietro.
+Carlo Rossi é il padre e Teresa Rossi é la madre di Pietro
+Carlo Rossi é il marito di Teresa Rossi e Teresa Rossi é la moglie
+di Carlo Rossi. Carlo Rossi é un uomo. Pietro ha due (2)
+sorelle. Pietro, Bruno e Pia sono tre (3) bambine. Pia è la
+seconda (2ª) figlia di Carlo Rossi. Bruno è il primo (!º)
+fliglio di Carlo Rossi. Bruno è fratello di Pia. Anche Pietro
+è fratello di Pia.
+
+
+
 Esercizio C.
+
+Quanti sono i fratelli di Pia?...
+Sono tre.
+
 
 
 
