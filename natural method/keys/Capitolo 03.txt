@@ -11,7 +11,8 @@ si chiamno Maria e Pia. Teresa Rossi cbiama sou marito <<Carlo>>.
 E calo Rossi chiama sua moglie <<Teresa>>. Chi è il padre di
 Maria? Suo padre è il signor Rossi. Come si chimano le figlie
 di Teresa Rossi? Le sue figlie si chiamano Maria e Pia. E i figli
-di Teresa Rossi come si chiamano? I suoi figli si chiamano Bruno e Pietro. Pia chiama i suoi genitori <<papà>> e <<mamma>>.
+di Teresa Rossi come si chiamano? I suoi figli si chiamano Bruno e Pietro.
+Pia chiama i suoi genitori <<papà>> e <<mamma>>.
 E Teresa Rossi chiama le sue figlie Pia e Maria. I bambini
 chiamano il loro padre <<papà>> e la loro madre <<mamma>>.
 I bambini chiamano i loro genitori << papà>> e <<mamma>>.
