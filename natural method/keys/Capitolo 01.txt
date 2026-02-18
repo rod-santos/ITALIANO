@@ -56,6 +56,29 @@ Esercizio C.
 Quanti sono i fratelli di Pia?...
 Sono tre.
 
+Chi è il padre di Pia?...
+È Carlo Rossi.
 
+Chi é la moglie de Carlo Rossi?...
+Teresa Rossi
 
+Quante figlie hanno Carlo e Teresa Rossi?...
+Quattro
 
+Chi sono le figlie de Carlo e Teresa Rossi?...
+Pia e Maria
+
+Quanti figlie ha Teresa Rossi?...
+Due figlie
+
+Ha due sorelle Pia?...
+No
+
+È fratello di Bruno Pietro?...
+Sì
+
+È una bambina Maria?...
+Sì
+
+Hanno tre figlie Carlo e Teresa Rossi?
+No
