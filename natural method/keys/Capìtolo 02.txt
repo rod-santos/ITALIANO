@@ -5,7 +5,7 @@ Esercizio A.
 
 
 L'Italia ha molti abitanti. Un abitante di Roma é un Romano.
-Un abitante di Parigi è un franvese. Gli abitanti di Londra
+Un abitante di Parigi è un francese. Gli abitanti di Londra
 non sono francesi, ma inglesi. Il Po è un fiume italiano.
 Il Tevere e l'Adige sono fiumi italiani. L'Italia é un paese
 grande. Anche la Francia e la Germania sono paesi grandi.
@@ -17,16 +17,16 @@ grande. Anche la Francia e la Germania sono paesi grandi.
           francese
           francesi
 
-Pietro é un bambino italino. Pia è na bambina italiana.
+Pietro é un bambino italino. Pia è una bambina italiana.
 Bruno e Pietro sono bambine italani e Maria e Pia sono
 bambine italiane. Teresa Rossi é una donna romana.
-Il Tevere é un fime romano. Bruno e Pietro sono bambini
+Il Tevere é un fiume romano. Bruno e Pietro sono bambini
 romani. Pia e Maria sono raomane. Il Rubicone è un fiume
 piccolo. Frascati è una città piccola. Il Tevere e l'Adige
 non sono fiumi poccoli, ma grandi. Parigi è una città francese.
 Pietro non è un bambino francese. Il Po e l'Adige no sono fiume
-francesi. Ischia e Capri non sono issole inglesi. Roma è una città
-grande, e l'Italia è un pase grande.
+francesi. Ischia e Capri non sono isole inglesi. Roma è una città
+grande, e l'Italia è un paese grande.
 
 
 
