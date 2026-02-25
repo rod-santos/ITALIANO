@@ -17,14 +17,14 @@ grande. Anche la Francia e la Germania sono paesi grandi.
           francese
           francesi
 
-Pietro é un bambino italino. Pia è una bambina italiana.
-Bruno e Pietro sono bambine italani e Maria e Pia sono
+Pietro é un bambino italiano. Pia è una bambina italiana.
+Bruno e Pietro sono bambini italani e Maria e Pia sono
 bambine italiane. Teresa Rossi é una donna romana.
 Il Tevere é un fiume romano. Bruno e Pietro sono bambini
-romani. Pia e Maria sono raomane. Il Rubicone è un fiume
+romani. Pia e Maria sono romane. Il Rubicone è un fiume
 piccolo. Frascati è una città piccola. Il Tevere e l'Adige
-non sono fiumi poccoli, ma grandi. Parigi è una città francese.
-Pietro non è un bambino francese. Il Po e l'Adige no sono fiume
+non sono fiumi piccoli, ma grandi. Parigi è una città francese.
+Pietro non è un bambino francese. Il Po e l'Adige non sono fiume
 francesi. Ischia e Capri non sono isole inglesi. Roma è una città
 grande, e l'Italia è un paese grande.
 
@@ -33,10 +33,10 @@ grande, e l'Italia è un paese grande.
 Esercizio B.
 
 Parigi è una città. Parigi è una città francese, Roma é una
-città italiana. Assi non é una città grande, ma piccola.
+città italiana. Assis non é una città grande, ma piccola.
 C'è l'Inghilterra? L'Inghilterra é un paese. E ci sono
 Roma e Firenze? Sono città. Roma ha due milioni di abitanti.
-Roma ha molti abitanti, Francati ha pochi abitanti. Un paese
+Roma ha molti abitanti, Frascati ha pochi abitanti. Un paese
 che ha molti abitanti è grande. Un pase che ha pochi abitanti è
 piccolo. In Italia ci sono cinquanta (50) milioni di abitanti.
 A Napoli c'è un milione di abitanti. La famiglia Rossi sta in
@@ -64,7 +64,7 @@ Quanti abitanti ha Paragi?
 Cinque milioni.
 
 In che paese è Parige?
-In Francia
+In Francia.
 
 Ci sono molti abibanti a Frascati?
-No, sono pochi
+No, sono pochi.
