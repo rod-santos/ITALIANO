@@ -33,23 +33,23 @@ sette (7) giorni. I giorni della settimana sono: lunedì, martedì, mercoledì, 
 venerdì e sabato.
 
 L'anno comincia il primo gennaio e finisce il trentuno dicembre. In un
-anno ci sono cinquentadue (52) settimane e trecentosessantacinque (365) o
+anno ci sono cinquantadue (52) settimane e trecentosessantacinque (365) o
 trecentosessantasei (366) giorni. Ci sono anche quattro stagioni. Le quattro
 stagioni dell'anno sono: la primavera, l'estate, l'autunno e l'inverno. Una stagione
 dura tre mesi. 
-L'anno dura dal primo gennaio al trentun dicembre.
+L'anno dura dal primo gennaio al trentuno dicembre.
 I Rossi vanno ad Ostia il primo luglio e stanno ad Ostia
 tutta l'estate. L'autunno, l'inverno e la primavera i Rossi stanno a Roma.
 
 
 Esercizio C.
 
-Quanti e quali sono i mesi dell'ano?
+Quanti e quali sono i mesi dell'anno?
 Gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto
 settembre, ottobre, novembre, dicembre.
 
 Quante e quale sono le stagioni?
-Sonno quattro, la primavera, l'estate, l'autunno, l'inverno.
+Sono quattro, la primavera, l'estate, l'autunno, l'inverno.
 
 Qual è il più corto dei dodici mesi?
 Febbraio.
@@ -61,7 +61,7 @@ Quanti giorni sono tre mesi?
 Novanta giorni.
 
 Quando comincia e quando finisce l'anno?
-Comincia il primo gennaio e finisce il trentun dicembre.
+Comincia il primo gennaio e finisce il trentuno dicembre.
 
 Dei due nonni, chi è il più vecchio?
 Giuseppe Rossi.
