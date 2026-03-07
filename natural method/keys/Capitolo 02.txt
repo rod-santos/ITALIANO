@@ -4,10 +4,10 @@ Esercizio A.
     paese      paesi
 
 
-L'Italia ha molti abitanti. Un abitante di Roma é un Romano.
+L'Italia ha molti abitanti. Un abitante di Roma è un romano.
 Un abitante di Parigi è un francese. Gli abitanti di Londra
 non sono francesi, ma inglesi. Il Po è un fiume italiano.
-Il Tevere e l'Adige sono fiumi italiani. L'Italia é un paese
+Il Tevere e l'Adige sono fiumi italiani. L'Italia è un paese
 grande. Anche la Francia e la Germania sono paesi grandi.
 
 
@@ -17,14 +17,14 @@ grande. Anche la Francia e la Germania sono paesi grandi.
           francese
           francesi
 
-Pietro é un bambino italiano. Pia è una bambina italiana.
-Bruno e Pietro sono bambini italani e Maria e Pia sono
-bambine italiane. Teresa Rossi é una donna romana.
-Il Tevere é un fiume romano. Bruno e Pietro sono bambini
+Pietro è un bambino italiano. Pia è una bambina italiana.
+Bruno e Pietro sono bambini italiani e Maria e Pia sono
+bambine italiane. Teresa Rossi è una donna romana.
+Il Tevere è un fiume romano. Bruno e Pietro sono bambini
 romani. Pia e Maria sono romane. Il Rubicone è un fiume
 piccolo. Frascati è una città piccola. Il Tevere e l'Adige
 non sono fiumi piccoli, ma grandi. Parigi è una città francese.
-Pietro non è un bambino francese. Il Po e l'Adige non sono fiume
+Pietro non è un bambino francese. Il Po e l'Adige non sono fiumi
 francesi. Ischia e Capri non sono isole inglesi. Roma è una città
 grande, e l'Italia è un paese grande.
 
@@ -32,12 +32,12 @@ grande, e l'Italia è un paese grande.
 
 Esercizio B.
 
-Parigi è una città. Parigi è una città francese, Roma é una
-città italiana. Assis non é una città grande, ma piccola.
-C'è l'Inghilterra? L'Inghilterra é un paese. E ci sono
+Parigi è una città. Parigi è una città francese, Roma è una
+città italiana. Assisi non è una città grande, ma piccola.
+C'è l'Inghilterra? L'Inghilterra è un paese. E ci sono
 Roma e Firenze? Sono città. Roma ha due milioni di abitanti.
 Roma ha molti abitanti, Frascati ha pochi abitanti. Un paese
-che ha molti abitanti è grande. Un pase che ha pochi abitanti è
+che ha molti abitanti è grande. Un paese che ha pochi abitanti è
 piccolo. In Italia ci sono cinquanta (50) milioni di abitanti.
 A Napoli c'è un milione di abitanti. La famiglia Rossi sta in
 Italia. I Rossi stanno a Roma. I Rossi sono italiani.
@@ -54,17 +54,17 @@ Quattro.
 Cos'è il Tevere?
 Un fiume.
 
-Cosa Sono Capri e La Sicilia?
+Cosa sono Capri e la Sicilia?
 Isole.
 
 In che città stanno i bambini Rossi?
 Stanno a Roma.
 
-Quanti abitanti ha Paragi?
+Quanti abitanti ha Parigi?
 Cinque milioni.
 
-In che paese è Parige?
+In che paese è Parigi?
 In Francia.
 
-Ci sono molti abibanti a Frascati?
+Ci sono molti abitanti a Frascati?
 No, sono pochi.
