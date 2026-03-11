@@ -3,11 +3,21 @@
       ne ha uno       ce n'è uno
       ne ha due       ce ne sono due
 
-Quanti anni ha Pietro? Ne ha dieci
-Quanti nonni hanno i bambini? Ne hanno due.
+Quanti anni ha Pietro?
+Ne ha dieci.
+
+Quanti nonni hanno i bambini?
+Ne hanno due.
+
 Quante bambine hanno i Rossi?
+Ne hanno due.
+
 Quanti fratelli ha Bruno?
-Ha due sorelle Maria? No,
+Ne ha uno
+
+Ha due sorelle Maria?
+No, ce n'è una.
+
 Quanti anni ha Gherardo Brunotti?
 Quante sorelle ha la signora Rossi?
 Quanti abitanti ci sono a Roma? Ce ne sono due molioni.
